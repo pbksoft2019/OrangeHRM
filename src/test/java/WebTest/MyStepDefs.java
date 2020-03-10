@@ -5,7 +5,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class MyStepdefs
+public class MyStepDefs
 {
     // object created for HomePage to call methods from homepage
     HomePage homePage = new HomePage();
