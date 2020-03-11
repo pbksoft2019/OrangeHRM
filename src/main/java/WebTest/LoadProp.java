@@ -15,7 +15,8 @@ public class LoadProp extends Utils
     public String getProperty(String key)
     {
         prop =new Properties(  );
-        try{
+        try
+        {
             input =new FileInputStream( fileLocation );
             prop.load( input );
         }

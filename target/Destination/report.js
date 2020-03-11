@@ -116,7 +116,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -136,7 +136,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -146,7 +146,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -156,7 +156,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -177,7 +177,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -197,7 +197,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -207,7 +207,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -217,7 +217,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -238,7 +238,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -258,7 +258,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -268,7 +268,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -278,7 +278,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -299,7 +299,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -319,7 +319,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -329,7 +329,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -339,7 +339,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -360,7 +360,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -380,7 +380,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -390,7 +390,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -400,7 +400,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -421,7 +421,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -441,7 +441,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -451,7 +451,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -461,7 +461,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -482,7 +482,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -502,7 +502,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -512,7 +512,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -522,7 +522,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -543,7 +543,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -563,7 +563,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -573,7 +573,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -583,7 +583,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -604,7 +604,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userIsOnHomePage()"
+  "location": "WebTest.MyStepDefs.userIsOnHomePage()"
 });
 formatter.result({
   "status": "passed"
@@ -624,7 +624,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
+  "location": "WebTest.MyStepDefs.userEntersUsernameAsAndPasswordAs(java.lang.String,java.lang.String)"
 });
 formatter.result({
   "status": "passed"
@@ -634,7 +634,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userClicksOnLogin()"
+  "location": "WebTest.MyStepDefs.userClicksOnLogin()"
 });
 formatter.result({
   "status": "passed"
@@ -644,7 +644,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "WebTest.MyStepdefs.userShouldSeeErrorMessage(java.lang.String)"
+  "location": "WebTest.MyStepDefs.userShouldSeeErrorMessage(java.lang.String)"
 });
 formatter.result({
   "status": "passed"

@@ -1,6 +1,5 @@
 package WebTest;
 
-
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
@@ -44,5 +43,4 @@ public class Hooks extends Utils
         // close browser once test case execution finished
         driver.quit();
     }
-
 }

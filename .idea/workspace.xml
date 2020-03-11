@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a67e6760-d374-4557-97b1-0bb91a3f1e90" name="Default Changelist" comment="" />
+    <list default="true" id="a67e6760-d374-4557-97b1-0bb91a3f1e90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/LoadProp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/LoadProp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebTest/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebTest/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Destination/report.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,33 +101,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583839531981" />
-    <state width="1323" height="295" key="GridCell.Tab.0.bottom" timestamp="1583842993888">
+    <state width="1323" height="243" key="GridCell.Tab.0.bottom" timestamp="1583924473424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="295" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583842993888" />
-    <state width="1323" height="295" key="GridCell.Tab.0.center" timestamp="1583842993888">
+    <state width="1323" height="243" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583924473424" />
+    <state width="1323" height="243" key="GridCell.Tab.0.center" timestamp="1583924473424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="295" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583842993888" />
-    <state width="1323" height="295" key="GridCell.Tab.0.left" timestamp="1583842993888">
+    <state width="1323" height="243" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583924473424" />
+    <state width="1323" height="243" key="GridCell.Tab.0.left" timestamp="1583924473424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="295" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583842993888" />
-    <state width="1323" height="295" key="GridCell.Tab.0.right" timestamp="1583842993888">
+    <state width="1323" height="243" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583924473424" />
+    <state width="1323" height="243" key="GridCell.Tab.0.right" timestamp="1583924473424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="295" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583842993888" />
+    <state width="1323" height="243" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583924473424" />
     <state x="426" y="23" key="Maven.ArtifactSearchDialog" timestamp="1583743187936">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="426" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583743187936" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583843935808">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583916176257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583843935808" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583916176257" />
     <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583747032861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583747032861" />
+    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1583916212850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1583916212850" />
   </component>
 </project>

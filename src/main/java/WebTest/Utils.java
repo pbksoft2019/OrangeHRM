@@ -21,7 +21,7 @@ public class Utils extends BasePage
         driver.findElement( by ).sendKeys( text );
     }
     // method for getting current url and compare
-    public static void assertURL(String text)
+    public void assertURL(String text)
     {
         Assert.assertTrue( driver.getCurrentUrl().contains( text ) );
     }

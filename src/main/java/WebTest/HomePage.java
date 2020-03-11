@@ -13,6 +13,12 @@ public class HomePage extends Utils
     // locator for actual error message field
     private By _actual = By.id( "spanMessage" );
 
+    // method to verify that user is on home page
+    public void verifyUserIsOnHomePage()
+    {
+        assertURL( "https://opensource-demo.orangehrmlive.com/" );
+    }
+
     // method for entering login details
     public void enterLoginDetails(String Username, String Password)
     {
@@ -34,9 +40,5 @@ public class HomePage extends Utils
         // compare actual and expected
         assertTextMessage( "Your Log in is unsuccessful  ", expected, _actual );
     }
-    // method to verify that user is on home page
-    public void verifyUserIsOnHomePage()
-    {
-        assertURL( "https://opensource-demo.orangehrmlive.com/" );
-    }
+
 }
