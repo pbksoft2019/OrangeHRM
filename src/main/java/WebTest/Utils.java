@@ -20,6 +20,11 @@ public class Utils extends BasePage
     {
         driver.findElement( by ).sendKeys( text );
     }
+    // method for click on element
+    public static void clickOnElement(By by)
+    {
+        driver.findElement( by ).click();
+    }
     // method for getting current url and compare
     public void assertURL(String text)
     {
@@ -30,11 +35,6 @@ public class Utils extends BasePage
     {
         String get_text = driver.findElement( by ).getText();
         return get_text;
-    }
-    // method for click on element
-    public static void clickOnElement(By by)
-    {
-        driver.findElement( by ).click();
     }
     // assert method for compare actual and expected result
     public void assertTextMessage(String massage, String expected, By by)

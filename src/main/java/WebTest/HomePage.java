@@ -12,13 +12,11 @@ public class HomePage extends Utils
     private By _LoginButton = By.id( "btnLogin" );
     // locator for actual error message field
     private By _actual = By.id( "spanMessage" );
-
     // method to verify that user is on home page
     public void verifyUserIsOnHomePage()
     {
         assertURL( "https://opensource-demo.orangehrmlive.com/" );
     }
-
     // method for entering login details
     public void enterLoginDetails(String Username, String Password)
     {
@@ -38,7 +36,6 @@ public class HomePage extends Utils
         // string expected message from feature field
         String expected = ErrorMessage;
         // compare actual and expected
-        assertTextMessage( "Your Log in is unsuccessful  ", expected, _actual );
+        assertTextMessage( "Your Log in is Unsuccessful  ", expected, _actual );
     }
-
 }
